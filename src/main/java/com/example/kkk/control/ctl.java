@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ctl {
     @RequestMapping("/hao")
     public String nihao() {
-        return "nihaozhiyongnnnzzzqqqqyyyy";
+        return "nihaozhiyongnnnzzzqqqqyyyyxxxx";
     }
 }
 
